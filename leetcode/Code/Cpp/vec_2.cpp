@@ -1,4 +1,8 @@
 // 合并区间
+
+#include <iostream>
+#include <vector>
+
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
